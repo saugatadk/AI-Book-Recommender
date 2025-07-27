@@ -42,3 +42,13 @@ It uses state-of-the-art **language embeddings**, **emotion tagging**, and **vec
    ```bash
    git clone https://github.com/saugatadk/AI-Book-Recommender.git
    cd AI-Book-Recommender
+2. **Create and activate a virtual environment**:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+3. **Install requirements**:
+   ```bash
+   pip install -r requirements.txt
+4. **Run the Gradio app**:
+   ```bash
+   python app.py
