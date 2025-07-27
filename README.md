@@ -4,7 +4,7 @@ A smart book recommendation tool powered by **NLP** and **semantic search**. Des
 
 It uses state-of-the-art **language embeddings**, **emotion tagging**, and **vector databases** to search over book descriptions with human-like understanding.
 
-![Try the live demo](https://huggingface.co/spaces/saugatadk101/AI-Book-Recommender)
+[Try the live Demo](https://huggingface.co/spaces/saugatadk101/AI-Book-Recommender)
 ---
 
 ## 🚀 Features
